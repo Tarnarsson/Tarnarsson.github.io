@@ -1427,7 +1427,7 @@ input, select, textarea {
 
 /* Button */
 
-	input[type="button"],
+	input[type="buttonblue"],
 	input[type="submit"],
 	input[type="reset"],
 	button,
